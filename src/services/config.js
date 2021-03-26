@@ -4,8 +4,9 @@
 */
 
 // Configuration Firebase (mettez-y les vôtres !)
-const firebaseConfig = {
-  
+
+  const firebaseConfig = {
+
 };
 export default firebaseConfig;
 
